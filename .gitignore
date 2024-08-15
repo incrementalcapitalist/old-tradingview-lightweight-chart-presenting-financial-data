@@ -48,3 +48,8 @@ amplifytools.xcconfig
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
